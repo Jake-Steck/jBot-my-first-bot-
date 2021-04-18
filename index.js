@@ -44,35 +44,4 @@ client.on('message', message => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-client.login('NzkzMjQ0NTc2NjE3NzI1OTUz.X-pclA.MsbcDSdgFNVPY3Av3Y-G21I3MeE');
+client.login('token');
